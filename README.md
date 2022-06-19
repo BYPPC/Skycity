@@ -2,20 +2,21 @@
 ## What is it?
 It is a cross-platform geek browser group based on the WebKit engine. Different platforms use different solutions, but they all have a main purpose, which is to allow users to use fast, modern and stable browsers.
 ## What solutions will Skycity use on different platforms?
-### Official version:
+### Official solution（*WebKit*）:
+
+***Open Source，Use LGPL 2.0，only drive binary platform differences***
+
 Skycity for Windows: WebKit_applewin
 
 Skycity for MacOS (***Comming soon***): WebKit
 
 Skycity for Liunxwine (***Comming soon***): WebKit_wine_applewin customization
 
-Skycity for ReactOS (***Comming soon***): WebKit_applewin custom
-
-Skycity for Android: Android WebView (Chromium version)
+Skycity for ReactOS (***Comming soon***): WebKit_applewin customization
 
 ***
-### Unofficial version (verified branch):
-From BYPPC organization
+### Does not follow the major version number
 
-Skycity for LiunxGTK (***Comming soon***): Gnome WebKit GTK
+***Open Source，Use LGPL 2.0，only Web Kennel differences***
 
+Skycity for Android/ChromeOS/HarmonyOS: Android Open Source Project WebView (Chromium version)_api_32
