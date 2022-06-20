@@ -12,7 +12,7 @@ Skycity for MacOS (***Comming soon***): WebKit
 
 Skycity for Liunxwine (***Comming soon***): WebKit_wine_applewin customization
 
-Skycity for ReactOS (***Comming soon***): WebKit_applewin customization
+Skycity for ReactOS (***Comming soon***): WebKit_wine_applewin customization
 
 ***
 ### Does not follow the major version number
